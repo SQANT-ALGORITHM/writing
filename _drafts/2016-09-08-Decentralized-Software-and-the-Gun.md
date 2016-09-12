@@ -6,35 +6,34 @@ tags:
 - Decentralized Software
 ---
 
-Every once in a blue moon, some red-blooded Texan will make the
-news with a good old fashioned, full-throated call for secession
-from the United States of America.  As a Texan, it's hard to explain
-to others not so blessed and burdened that the practiced political
-ritual of finding and amplifying such a lout is both practically
-meaningless and, culturally, absolutely essential.  There is no
-good case to be made for Texas' secession from the United States.
-But it is absolutely essential that Texas make on, recurrently, like
-a credible threat, at least in its own mind's eye.  What others make
-of the show, if anything at all, is quite beside the point.  It's a
-feckless exercise in national politicking for the sake of identity
-politics entirely local.
+Every once in a blue moon, some red-blooded Texan will make the news
+with a good old fashioned, full-throated call for secession from the
+United States of America.  As a Texan, it's hard to explain to others
+not so blessed and burdened that the practiced political ritual of
+finding and amplifying such a lout is both practically meaningless and,
+culturally, absolutely essential.  There is no good case to be made
+for Texas' secession from the United States.  But it is absolutely
+essential that Texas make on, recurrently, like a credible threat.
+What others make of the show, if anything at all, is quite beside
+the point.  It's a feckless exercise in national politicking for the
+sake of identity politics entirely local.
 
-The issue, or rather the sentiment, is _independence_.  Like so many
-folks, Texans stand at a loss to describe how they aim to go about
-life without relapse into laughably nonspecific terms.  Independence
-is such a term.  Try to define it; it washes out in the abstract,
-elusive creature unknown beneath the firmament ... fuck-you money,
-good health, and a very fortuitous roll of fortune's dice [be damned].
-Try to make it practical; it boils down to a less heinous crop of
-dependencies than the other guy has.  Dependent on the job, but not
-on the bottle.  Dependent on neighbors, but not tied up in debt.
-
-Independence is a _feeling_.  We've all felt it, here and there, and
-we know it by name.  The meaning is plain enough without more words
-that miss the mark.  Chance to relish in it with any credibility, as
-who and what we know ever tighter intertwine, eludes the more often.
+The issue, or rather the sentiment, is _independence_.  Like so
+many folks, Texans stand at a loss to describe how they aim to
+go about life without relapse into laughably nonspecific terms.
+Independence is such a term.  Try to define it; it washes out in the
+abstract ... fuck-you money, good health, and a very fortuitous roll
+of fortune's dice [be damned].  Try to make it practical; it boils
+down to a less heinous crop of dependencies than the other guy has.
+Dependent on the job, but not on the bottle.  Dependent on neighbors,
+but not tied up in debt.
 
 [be damned]: https://youtu.be/eJlN9jdQFSc
+
+Independence is a _feeling_.  We've all felt it, here and there,
+and we know it by name.  The meaning is plain enough without more
+words that miss the mark.  Heaps of analytical exposition don't make
+it any more clear.
 
 ---
 
@@ -46,24 +45,25 @@ cousins---tasers, knives, any and everything "tactical"---are
 recreational drugs of independence in an age of many-million-dollar
 war machines and drones that kill.  Give Average Joe a 9 mm handgun,
 convince him he knows how to use it---not hard, the boob tube
-furnishing much fertile ground for fantasy---and he'll walk straighter,
-talk louder, and generally go about life like he's one rung down from
-God's own Angel Michael, even at Wal-Mart with the piece down the
-stretch waistband of his blue jeans.
+furnishing much good material for any would-be Walter Mitty---and he'll
+walk straighter, talk louder, and generally go about life like he's
+second in command after God's own Angel Michael, even at Wal-Mart.
+At least for a while.
 
-The extent of effect is roughly proportional to the noise of floor
+The extent of effect is roughly proportional to the noise floor
 of anxiety induced in the man.  Nightly news?  Six inches taller.
 Cable news?  Twenty more pounds of imputed muscle.  Gangs, terrorists,
-sociopaths, immigrants, black people, communists galore and sundry
-bugbears recorded and replayed out of all proportion?  [Sheepdog].
-[Oath Keeper].  [Prepper].
+sociopaths, immigrants, militant black people, communists galore
+and sundry bugbears recorded and replayed out of all proportion?
+[Sheepdog].  [Oath Keeper].  [Prepper].  On an individual level, none
+of these is morally reprehensible.  They may be closer to inevitable.
 
 For every nightmare, the Gun affords a correspondingly unbounded
-illusion of control, a magical antidote to helplessness, the
-playhouse mask of a stock Decisive Hero.  The conceivable horrors are
-unbounded, and so, in the absence of faith and empowering knowledge,
-must the power of our talismans be.  Else it's life upon our knees,
-all dependence, because there are no alternatives.
+illusion of control, a magical antidote to helplessness, the mask of a
+stock Decisive Hero.  The conceivable horrors are unbounded, and so,
+in the absence of faith and empowering knowledge, must the power of
+our talismans be.  Else it's life upon our knees, all dependence,
+because there are no alternatives.
 
 [Sheepdog]: http://www.killology.com/sheep-wolves-and-sheepdogs
 
@@ -84,13 +84,14 @@ and obstreperously commercial---exist to provide a casual and low-cost
 induction, backed up by depth enough to sink a life's worth of pastime.
 The first hit, in any sane market, is free or very close to it.
 
-And I hold out hope that amongst the addicts, the heavy users and
-doomed experimenters, are those who can hold the Gun and feel nothing.
-Those who, by virtue of the familiarity of long-lived experience,
-reflection, or stout ethical, spiritual fortitude, can hold and
-carry the Gun without feeling the High.  Can expound on its [history
-and its intricacies][history] without a hint of [power fantasy].
-Can drive the Gun sober, so to speak.
+And I hold out hope that amongst the addicts, the heavy users
+and doomed experimenters, are those who can hold the Gun and feel
+nothing, or whose feelings correspond to shared reality.  Those who,
+by virtue of the familiarity of long-lived experience, reflection,
+or stout ethical, spiritual fortitude, can hold and carry the
+Gun without feeling the High.  Can expound on its [history and
+its intricacies][history] without a hint of [power fantasy] or
+reinforcement of it in others.  Can drive the Gun sober, so to speak.
 
 [history]: https://youtu.be/WnnrJcO1TVw
 
