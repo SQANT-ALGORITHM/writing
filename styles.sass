@@ -5,11 +5,14 @@ $dateWidth: 100px
 $datePadding: 36px
 $interPostPadding: 36px
 $darkRed: #800000
+$serif: "Equity Text A", "Allegreya", "Geogria", "Times New Roman", serif
+$titleSans: "Concourse T3", "Allegreya Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+$otherSans: "Concourse T6", "Allegreya Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
 
 html, body
   margin: 0
   text-align: center
-  font-family: Equity-Text
+  font-family: $serif
   font-size: 24px
   background-color: #f8f8f8
 
@@ -36,7 +39,7 @@ header
   h1
     // padding-top: 100px + $interPostPadding
     padding-top: $interPostPadding
-    font-family: "Concourse-T3"
+    font-family: $titleSans
     font-size: 400%
 
   p
@@ -87,7 +90,7 @@ ol.posts
 .title
   display: block
   font:
-    family: "Concourse-T6"
+    family: $otherSans
     size: 200%
 
 .description
@@ -103,7 +106,7 @@ ol.posts
   list-style-type: none
   padding-top: 0.5ex
   font:
-    family: "Concourse-C4"
+    family: $titleSans
     size: 50%
   text:
     transform: uppercase
@@ -133,7 +136,7 @@ ol.posts
     color: $darkRed
     font:
       size: 200%
-      family: "Concourse-T6"
+      family: $otherSans
 
   .month, .year
     color: #777
@@ -149,7 +152,7 @@ ol.posts
 .post
   h1
     font-size: 200%
-    font-family: "Concourse-T6"
+    font-family: $otherSans
     padding: 1em 0 0.25em 0
     small
       display: block
@@ -158,7 +161,7 @@ ol.posts
       color: #777
   h2
     font-size: 150%
-    font-family: "Concourse-T6"
+    font-family: $otherSans
     padding: 1em 0 0.25em 0
   h3
     padding: 1em 0 0.25em 0
